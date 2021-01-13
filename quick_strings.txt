@@ -45,7 +45,7 @@ qstr_^ ^
 qstr_/ /
 qstr_/heal /heal
 qstr_Successful:_You_ve_h Successful:_You've_healed_yourself!
-qstr_ERROR:_You_must_have ERROR:_You_must_have_a_surgeon_scalpel_or_an_healing_herb_in_equiped!
+qstr_ERROR:_You_must_have ERROR:_You_must_have_a_surgeon_scalpel_or_an_healing_herb_in_hand!
 qstr_ERROR:_Inexistent_co ERROR:_Inexistent_command!
 qstr_[E]_Could_not_get_on [E]_Could_not_get_one_or_more_skybox_prop_instances!
 qstr_Time:_Day Time:_Day
